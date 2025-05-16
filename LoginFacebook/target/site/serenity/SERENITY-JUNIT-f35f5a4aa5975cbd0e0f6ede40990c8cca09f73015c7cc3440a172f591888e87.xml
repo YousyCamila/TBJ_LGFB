@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Autenticacion en la pagina de Facebook" skipped="0" tests="1" time="0.25" timestamp="2025-05-16 06:08:19"><testcase name="Verificar la autenticacion exitosa en la pagina de Facebook"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Autenticacion en la pagina de Facebook" skipped="0" tests="1" time="0.26" timestamp="2025-05-16 06:16:57"><testcase name="Verificar la autenticacion exitosa en la pagina de Facebook"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
 cucumber.deps.com.thoughtworks.xstream.XStream.setupConverters(XStream.java:820)&#13;
 cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:574)&#13;
 cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:530)&#13;
